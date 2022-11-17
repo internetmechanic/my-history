@@ -1,0 +1,2 @@
+npx fake-git-history --commitsPerDay "0,10"
+npx fake-git-history --startDate "2022/09/01" --endDate "2022/09/30"
